@@ -15,6 +15,6 @@ print_r($susu);
 print "<p>";
 print_r($teh);
 
-print_r("<P><strong>by :jihan syafitri");
+print_r("<P><strong>by :jihann syafitri");
 
 ?>
