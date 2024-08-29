@@ -6,5 +6,5 @@ $variabel_array = array(1, 2, "tiga", 4.5);
 var_dump($variabel_string);
 var_dump($variabel_integer);
 var_dump($variabel_array);
-print_r("<P><strong>by :jihan syafitri");
+print_r("<P><strong>by :jihann syafitri");
 ?>
