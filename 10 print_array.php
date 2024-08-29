@@ -1,6 +1,6 @@
 <?php
 $array = array(
-    'name' => 'jihan<br>',
+    'name' => 'jihann<br>',
     'age' => 30,
     '<br>skills' => array('PHP', 'JavaScript', 'HTML')
 );
