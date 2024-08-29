@@ -1,6 +1,6 @@
 <?php
 echo 'Ini akan tampil di browser ';
-exit('tunggu beberapa saat.');;
+exit('tungguu beberapa saat.');;
 echo 'Ini tidak akan tampil di browser.';
 // Jika terjadi error
 exit(1);
