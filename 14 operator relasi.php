@@ -32,4 +32,4 @@ echo "<hr>";
 $c = $a <= $b;
 echo "$a <= $b: $c";
 echo "<hr>";
-print_r("<P><strong>by :jihann syafitri");
+print_r("<P><strong>by :jihann syaafitri");
