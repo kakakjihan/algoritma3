@@ -6,5 +6,5 @@ if ($nilai >= 90) {
   echo "Nilai kamu B";
 } else {
   echo "Nilai kamu C";
-  print_r("<P><strong>by :jiihann syafitrii");
+  print_r("<P><strong>by :jihann syafitri");
 }
