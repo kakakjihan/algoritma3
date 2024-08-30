@@ -1,4 +1,5 @@
 <?php
+
 //number_format()
 echo number_format(1000); // Hasil: 1,000
 echo"<br>";
