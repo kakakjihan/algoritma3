@@ -14,5 +14,6 @@ if ($umur < 18 ){
 } else {
     echo "<br>Selamat datang di website kami!";
 }
+print_r("<P><strong>by :jihan syafitri");
 
 ?>
