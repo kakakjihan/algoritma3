@@ -17,4 +17,4 @@ echo "<hr>";
 $c = !$a;
 printf("!%b = %b", $a, $c);
 echo "<hr>";
-print_r("<P><strong>by :jihann syafitri");
+print_r("<P><strong>by :jihann syafitrii");
