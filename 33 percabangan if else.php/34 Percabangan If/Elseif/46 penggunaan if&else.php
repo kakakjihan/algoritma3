@@ -5,5 +5,5 @@ if ($umur >= 17) {
     echo "Kamu sudah cukup umur.";
 } else {
     echo "Kamu belum cukup umur.";
-    print_r("<P><strong>by :jiihann syafitrii");
+    print_r("<P><strong>by :jihann syafitri");
 }
