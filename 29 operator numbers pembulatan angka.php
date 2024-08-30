@@ -18,4 +18,4 @@ echo floor(3.3); // Hasil: 3
 echo "<br>";
 echo floor(3.9); // Hasil: 3
 echo "<hr>";
-print_r("<P><strong>by :jihann syafitrii");
+print_r("<P><strong>by :jihan syafitri");
