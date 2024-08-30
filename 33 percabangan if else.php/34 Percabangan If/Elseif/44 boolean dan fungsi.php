@@ -6,5 +6,5 @@ if ($status !== false) {
     echo "Penulisan file berhasil!";
 } else {
     echo "Penulisan file gagal.";
-    print_r("<P><strong>by :jiihann syafitrii");
+    print_r("<P><strong>by :jihann syafitri");
 }
