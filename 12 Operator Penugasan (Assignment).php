@@ -15,4 +15,4 @@ $speed2 = $speed2 + 12;
 // dan
 $speed2 = 12;
 print($speed2);
-print_r("<P><strong>by :jihann syafitri");
+print_r("<P><strong>by :jihann syafitrii");
