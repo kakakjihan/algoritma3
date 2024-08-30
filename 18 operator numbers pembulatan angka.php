@@ -4,3 +4,4 @@ echo number_format(1000); // Hasil: 1,000
 echo"<br>";
 echo number_format(1000.75, 2, '.', ','); // Hasil: 1,000.75
 echo"<br>";
+print_r("<P><strong>by :jihann syafitrii");
