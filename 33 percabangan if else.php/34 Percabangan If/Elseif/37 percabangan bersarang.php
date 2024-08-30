@@ -1,15 +1,16 @@
 <?php
-$umur = 17;
+
+$umur = 16;
 $menikah = false;
 
 if($umur > 18){
     if($menikah){
-        echo "Selamat datang pak!";
+        echo "<br>karna ibu sudah menikah,saya ucapkan selamat buk!";
     } else {
-        echo "Selamat datang wahai pemuda!";
+        echo "<hr> karena usia kamu sudah > 18, kami ucapkan Selamat datang wahai pemuda!";
     }
 } else {
-    echo "Maaf website ini hanya untuk yang sudah berumur 18+";
+    echo "<br>maaf umur kamu masih $umur,Maaf website ini hanya untuk yang sudah berumur 18+";
 }
+print_r("<P><strong>by :jiihann syafitrii");
 ?>
-
