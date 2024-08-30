@@ -18,6 +18,7 @@ switch($level){
     default:
         echo "Kamu bukan programmer!";
 }
+print_r("<P><strong>by :jiihann syafitrii");
 ?>
 
 
