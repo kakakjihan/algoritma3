@@ -18,7 +18,7 @@ $c = $a * $b;
 echo "$a * $b = $c";
 echo "<hr>";
 
-// Pembagian
+// Pembagiann
 $c = $a / $b;
 echo "$a / $b = $c";
 echo "<hr>";
