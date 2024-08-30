@@ -27,4 +27,4 @@ echo "<br>";
 $c = $a >> $b;
 echo "$a >> $b = $c";
 echo "<br>";
-print_r("<P><strong>by :jihann syafitri");
+print_r("<P><strong>by :jihann syafitrii");
