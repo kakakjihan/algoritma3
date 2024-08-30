@@ -17,3 +17,4 @@ echo max(2, 3, 1); // Hasil: 3
 echo"<hr>";
 echo min(array(2, 3, 1)); // Hasil: 1
 echo"<br>";
+print_r("<P><strong>by :jihann syafitrii");
