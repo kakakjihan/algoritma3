@@ -7,5 +7,5 @@ if ($suhu < 20) {
     echo "Cuaca hangat.";
 } else {
     echo "Cuaca panas.";
-    print_r("<P><strong>by :jiihann syafitrii");
+    print_r("<P><strong>by :jihann syafitrii");
 }
