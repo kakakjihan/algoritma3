@@ -12,3 +12,4 @@ $score++;
 $score++;
 $score++;
 echo $score;
+print_r("<P><strong>by :jihann syafitrii");
