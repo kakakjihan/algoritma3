@@ -10,5 +10,5 @@ switch ($grade) {
     break;
   default:
     echo "Tetap semangat!";
-    print_r("<P><strong>by :jiihann syafitrii");
+    print_r("<P><strong>by :jihann syafitrii");
 }
